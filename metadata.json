@@ -1,0 +1,8 @@
+
+{
+  "name": "Establishment Information Gatherer",
+  "description": "An AI-powered agent that retrieves and structures public business information. Enter an establishment name to get its contact and location details formatted for easy use.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
